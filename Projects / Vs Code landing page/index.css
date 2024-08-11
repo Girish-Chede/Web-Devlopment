@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(5, 4, 5);
+}
+.toplink{
+    font-style: italic;
+    font-weight: 200;
+    color: rgb(252, 252, 252);
+    cursor: pointer;
+    padding-left: 16px;
+    font-style: bold;
+    font-size: 17px;
+}
+.toplink1{
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding-left: 150px;
+    font-size: 17px;
+}
+
+.searchbutton{
+    padding-left: 70px;
+    color: rgb(9, 5, 5);
+}
+.downloadbutton{
+    
+    
+    
+}
+.downloadme{
+    
+    background-color: rgb(14, 97, 206);
+    font-size: 19px;
+    color: white;
+    box-shadow: 3px 1 px black;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 15px 20 px;
+}
+.version{
+    font-size: 20;
+    padding-left: 450;
+    padding-bottom: 100;
+    color: white;
+}
+
+
+.vsimg{
+    padding-left: 250 ;
+    display: flex;
+    padding-bottom: 150px;
+    padding-right: 180px;
+    
+}
+.alignme{
+    
+}
+.cer1{
+    color: white;
+    padding-top: 55px;
+    padding-left: 185px;
+    font-size: 18px;
+}
+.wd{
+    padding-top: 250px;
+    
+    
+}
+.dfw{
+    margin-top: 50px;
+    width: 250px;
+    background-color: rgb(14, 97, 206);
+    font-size: 19px;
+    color: white;
+    box-shadow: 6px 3 px black;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 13px ;
+
+}
+.vsl{
+    
+    font-size: 13px;
+    justify-content: center;
+}
