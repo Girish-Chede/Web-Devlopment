@@ -1,0 +1,87 @@
+.body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.header{
+    padding-top: 17px;
+    top: 50;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+    background-color: #fff;
+    box-shadow: 2px 1px 2px #eee;
+    box-sizing: border-box;
+    padding-bottom: 17px;
+
+}
+.logo{
+    align-items: center;
+    padding-left: 170px;
+    font-size: 20px;
+    width: 15px;
+}
+.signup{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-left: 550px;
+    font-size: 17px;
+}
+.about{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-left: 60px;
+    font-size: 17px;
+}
+.products{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-left: 60px;
+    font-size: 17px;
+}
+.pricing{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-left: 60px;
+    font-size: 17x;
+}
+.support{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-left: 60px;
+    font-size: 17px;
+}
+.photo{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-top: 120px;
+    padding-left: 300px;
+    width: 650px;
+}
+.ie{
+    padding-top: 20px;
+    padding-left: 600px;
+}
+.op{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    padding-top: 1px;
+    padding-left: 470px;
+    font-size: 20px;
+    margin-bottom: 40px;
+    
+}
+.suno{
+    
+
+    padding-left: 60px;
+    .suno :hover{
+        color: green;
+    }
+}
+.sun{
+    
+    font-size: 20px;
+    background-color: #387ed1;
+    color: white;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 10px 30px;
+    text-align: center;
+    box-shadow: 2px 1px black;
+    font-weight: 500;
+    cursor: pointer;
+    box-sizing: border-box;
+
+}
